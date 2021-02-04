@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sound-service-288311",
+  "private_key_id": "bf901ab03681498f745e80253fcee04b2313c732",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRSYcPKuRdiOYh\nnHQI59ffi9GaJy3c+OhwPThgBXQTPTGzspLGLTE3b1DWoWNgvoIm81NL47RE+c2/\nsQYS9Y9bHuV2r3prkwMOJSZbXnf3n72Bq2fvNzS9nqlZGHWk5m+EK0qOawfl298j\nkAFiVB6IfS8Eld8LgwLkQqk2QQn+D7lmFQRCIIB+eftWefaURUMC4GR6sTa9Gwlo\nJmwdJ76tmlevGtY1/TzY0VOW/AhWqEOCzfLFLntEM20473pVzvgRDHImigmjCIqx\nWC0nMC4EYciLosOUxJQ1soR4tUSmLPyxaDVNcxPtzbHscVZO+lDILbKEpjfFXe89\nQB02FOhJAgMBAAECggEAMNKWy76FTJ6plPCzDvrK3M74xB3csJ5uVvSpKJlNFUni\nxNllLQ8Q2q5ArPk0PjbjFOQRq/QAM1EVIuFQme6oFSk1fYT9KYg/n7ah5pG4qc8d\nfdj3I5J83rlbJzoyA5hwLmSM/YFRc9lhiiHHeOFHyC5v4AF4aW6UJ5y3bb0pcBdd\n7swYsHOnJnS3Da35pj9WYhG+xKZrUEQ6aklIyL4AWoUfiUhYymy55LiX5kBL9dEp\nDot8k/vLK8EmEY/9uOSD7G2DpbHjhD/efy5+xTyFZ+BuXlu6YyTaD6to17K4+cjh\nBnGHv2YgdO+ldid6rQSTKz/km0Jth/YxI27uT+RoiQKBgQDt9wiUKnJCY1Q6H+uA\nd5rpnWsjEI+YFVZ0of5hnb3dZc4OOR5mHwcDruZOQjS4gv8nBYZ4A6uDRyqtoYOP\nubA0PRgQButJjX06V4v+0hqiB8m+cV/Uy4pwB0BuWPGE2McvcYQnELwDSkbdZ7D9\n8qzml6su4yqqMOcUFArMN4vwjQKBgQDhJheBm0d4iNf79p3greiNofiNgPwNxyE+\nJ2fg7+hRJHnCnBck73G56fh5HUicNJfXYYQTglYZU31YFun9f+04gV8JbqMos8Hw\nZRmvKVnJf+7ZCTjhwsjpLE2GPF8pU6Zn2OCHFY9XP++2NK36qoduh38+NqSfajBT\nfFPN4Oj9rQKBgB3cghcVvIDYNhmVJ9hXKflm56reySYsh0zbhzB4uvqta84dHNNz\n0U2FBSGM7VC6H4qmBtnInB09MP3Y5smCY7oqcHqSY7Q3LR/FHKw9cVoj4A0l7QCn\nChhE0LEIOEaTbWtms06zquQ+zeW6vVsguNG29qRLnW799AFxAmneDpGBAoGBALbi\nzUdPTeAAMImQCzB9s6CQyCiRdKzwavVk5wGVfv2ihnFpf3dWNOgSwO4ItnmEUy72\nHGYIgk2yPuf2PP3ZE2XJ2Nv9jfU7BzdxuEpLaY6/J9IOprDkG3Uksphuo9IbC9nh\nFolEHxp9agd0hTpPmRFUaSytEE4Z4MWAAUcEAd5FAoGBANhPnvrfejJAWdjNs+eJ\nF2IActXG6BhJe7wZOPn7sf5pT6XvYOmzmWvPZJtfnUnfdRb3RNziS0Tv0cf2wvsV\njj2hG+9pygg9BfsMTZTOTzjyrR7tOZ91vxXGo/GR2lsnH1dQ6P14jhNfjiLUvefW\nvMwUY9Xz9y1QJKqf/W4zUCNl\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@sound-service-288311.iam.gserviceaccount.com",
+  "client_id": "112657934091691100083",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40sound-service-288311.iam.gserviceaccount.com"
+}
